@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @damv93
+### Hi! I’m @damv93 👋
+
 - 🤖 I'm an Android Engineer.
 - 🐦 I'm also a Flutter Developer. Check out my app to play Secret Santa: [Bloo](https://bloo-app.com) (currently available only in Peru)
 - 💻 Interested in learning about AR technologies to become an AR Developer.
