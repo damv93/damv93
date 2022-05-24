@@ -1,8 +1,8 @@
 ### Hi! I’m @damv93 👋
 
 - 🤖 I'm an Android Engineer.
-- 🐦 I'm also a Flutter Developer. Check out my app to play Secret Santa: [Bloo](https://bloo-app.com) (currently available only in Peru)
-- 💻 Interested in learning about AR technologies to become an AR Developer.
+- 🐦 Also a Flutter Developer. Check out my app to play Secret Santa: [Bloo](https://bloo-app.com) (currently available only in Peru)
+- 💻 Interested and starting to learn about AR development.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/diego-andres-malpartida-valverde-13a403171/)
 
 <!---
